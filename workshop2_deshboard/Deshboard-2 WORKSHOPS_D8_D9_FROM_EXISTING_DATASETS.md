@@ -45,7 +45,6 @@
 
 ## 🎤 **PROMPT LENGKAP สำหรับ Workshop D8**
 
-```
 คุณเป็นนักวิเคราะห์ข้อมูล Agricultural Meteorology
 
 ฉันมี Dataset ชื่อ "weather_yield_prediction_dataset" ที่มี:
@@ -109,16 +108,15 @@
    • ให้ Risk Assessment
 
 **Dataset Information:**
-[Paste weather_yield_prediction_dataset.csv]
-หรือมี 36 rows × 11 columns (สมบูรณ์)
+[Paste rice_disease_classification_dataset.csv]
+หรือมี 48 rows × 13 columns (สมบูรณ์)
 
-**Analysis Focus:**
-- Focus: Rainfall + Sunshine แต่ไม่ใช่ Temperature
-- Pattern: Seasonal Pattern (เดือน) สำคัญกว่า Year-to-Year
-- Forecast: Simple Trend-Based (อาจใช้ Moving Average)
+**Classification Focus:**
+- 3 Classes: Healthy, Leaf_Spot, Blast
+- Feature Importance: Spot_Pattern > Leaf_Curl > Spot_Color
+- Severity: Important for Treatment Decision
 ```
 
----
 
 ## 📌 **Expected Output จาก Workshop D8**
 
