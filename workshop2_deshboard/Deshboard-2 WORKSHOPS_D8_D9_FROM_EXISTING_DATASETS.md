@@ -196,7 +196,6 @@ Key Variables:
 
 ## 🎤 **PROMPT LENGKAP สำหรับ Workshop D9**
 
-```
 คุณเป็นนักวิเคราะห์ข้อมูล Plant Disease Detection
 
 ฉันมี Dataset ชื่อ "rice_disease_classification_dataset" ที่มี:
